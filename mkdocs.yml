@@ -56,4 +56,5 @@ markdown_extensions:
 nav:
   - 'Visão Geral': 'index.md'
   - 'Lean Inception': 'lean.md'
+  - 'Documento de Produto': 'produto.md'
 
