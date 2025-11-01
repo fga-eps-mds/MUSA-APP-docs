@@ -1,3 +1,3 @@
 # Documento de Arquitetura
 
-[Documento de Arquitetura](assets/meu-documento.pdf){:target="_blank"}
+[Documento de Arquitetura](../assets/DocumentodeArquiteturaMUSA.pdf){:target="_blank"}
