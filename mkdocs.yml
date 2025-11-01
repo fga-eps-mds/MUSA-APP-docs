@@ -36,6 +36,8 @@ plugins:
   - search
   - minify:
       minify_html: true
+  - mkdocs-pdf
+
 
 markdown_extensions:
   - admonition
