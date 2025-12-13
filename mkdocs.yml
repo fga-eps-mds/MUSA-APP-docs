@@ -57,6 +57,10 @@ markdown_extensions:
 
 nav:
   - 'Visão Geral': 'index.md'
+  - 'Começando': 'comecando.md'
+  - 'Arquitetura': 'arquitetura.md'
   - 'Lean Inception': 'lean.md'
   - 'Documento de Arquitetura': 'produto.md'
+  - 'Equipe': 'equipe.md'
+  - 'Contribuindo': 'contribuindo.md'
 
