@@ -1,5 +1,4 @@
-# MUSA - Monitoramento de Usuários de Saúde e Assistência
-
+# MUSA - Mural UnB de Socialização Artística 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/FGA0138-MDS-Ajax/2025.2-Inti)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
